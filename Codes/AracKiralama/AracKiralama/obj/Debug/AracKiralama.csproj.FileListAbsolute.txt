@@ -1,0 +1,44 @@
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csprojAssemblyReference.cache
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.giris.resources
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.AnaSayfa.resources
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriForm.resources
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Tanimlamalar.resources
+C:\Users\DESKTOP\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.PersonelFormu.resources
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.AnaSayfa.resources
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.AracFormu.resources
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.giris.resources
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriForm.resources
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.PersonelFormu.resources
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Tanimlamalar.resources
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\DESKTOP\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.AnaSayfa.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.AracFormu.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.giris.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriForm.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.PersonelFormu.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Tanimlamalar.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VTYS\PROJE\Proje - 2.Aşama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
